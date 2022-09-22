@@ -1,4 +1,5 @@
-const express = require("express");
+// const express = require("express");
+import express from "express";
 const product = require("./api/products");
 
 const app = express();
